@@ -2,7 +2,7 @@ This page demonstrates all the analyses in the paper, titled "A new emu genome i
 
 ## Genome assembly
 ```
-1) Using [falcon] to do the pacbio assembly
+1) Using [falcon](https://pb-falcon.readthedocs.io/en/latest/) to do the pacbio assembly
     bash ./01.Pacbio_assembly/falcon.sh
 2) 10x scaffolding
 # Reads pre_process.
