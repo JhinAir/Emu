@@ -72,5 +72,3 @@ This page demonstrates all the analyses in the paper, titled "A new emu genome i
 3) ZW HiC interaction
   bash ./03.ZW_HiC_interaction/ZW.Interaction.Window.sh
 ```
-
-[Scaff10x]: https://github.com/wtsi-hpag/Scaff10X
